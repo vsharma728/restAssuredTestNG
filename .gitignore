@@ -1,0 +1,11 @@
+/target/
+/test-output/
+/logs/
+/*.iws/
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+/.idea/
+*.log
+*.iml
+**/screenshots/*.png
+**/LOG4J.properties
